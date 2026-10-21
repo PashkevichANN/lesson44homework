@@ -11,5 +11,6 @@ int main() {
 	odd = SIZE - even;
 
 	cout << "Even: " << even << " , odd: " << odd;
+	
 	return 0;
 }
